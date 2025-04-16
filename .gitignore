@@ -1,0 +1,6 @@
+.qodo
+.envgit rm --cached backend/.env
+# .gitignore
+node_modules/
+.env
+*.env
